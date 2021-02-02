@@ -1,2 +1,6 @@
 .vscode
 kivy_env
+demo.spec
+build
+dist
+__pycache__
